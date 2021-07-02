@@ -1,0 +1,104 @@
+body {
+	background-color: grey;
+	display: flex;
+	flex-direction: column;
+	
+
+}
+
+.main {
+	background-color: white;
+	border-top: 10px solid blue;
+	border-radius: 10px;
+	/*border: 2px solid black;*/
+	padding: 10px;
+	font-family: Ariestha Script;
+
+}
+
+.email {
+	background-color: white;
+	border-radius: 10px;
+	border: 2px solid black;
+	padding: 10px;
+ }
+
+ .name {
+ 	background-color: white;
+	border-radius: 10px;
+	border: 2px solid black;
+	padding: 10px;
+ }
+
+ #number {
+ 	background-color: white;
+	border-radius: 10px;
+	border: 2px solid black;
+	padding: 10px;
+ }
+
+ .number {
+ 	background-color: white;
+	border-radius: 10px;
+	border: 2px solid black;
+	padding: 10px;
+ }
+
+ .class {
+ 	background-color: white;
+	border-radius: 10px;
+	border: 2px solid black;
+	padding: 10px;
+ }
+
+ #fees {
+ 	background-color: white;
+	border-radius: 10px;
+	border: 2px solid black;
+	padding: 10px;
+ }
+
+ #indicate {
+ 	background-color: white;
+	border-radius: 10px;
+	border: 2px solid black;
+	padding: 10px;
+ }
+
+ .location {
+ 	background-color: white;
+	border-radius: 10px;
+	border: 2px solid black;
+	padding: 10px;
+ }
+
+ .sch {
+ 	background-color: white;
+	border-radius: 10px;
+	border: 3px solid black;
+	padding: 10px;
+ }
+
+ #show {
+ 	background-color: white;
+	border-radius: 10px;
+	border: 3px solid black;
+	padding: 10px;
+ }
+
+ #confirm {
+ 	background-color: white;
+	border-radius: 10px;
+	border: 3px solid black;
+	padding: 10px;
+ }
+
+ input {
+ 	font-size: 30px;
+ }
+
+ p {
+ 	background-color: blue;
+ 	border: 2px black;
+ 	color: white;
+ }
